@@ -53,6 +53,7 @@ sensor:
     device_class: power
     icon: mdi:flash-outline
     accuracy_decimals: 0
+    internal_filter: 15ms
     pin: ${pulse_pin}
     on_raw_value:
       then:
