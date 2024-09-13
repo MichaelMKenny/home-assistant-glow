@@ -69,7 +69,7 @@ sensor:
 
     total:
       id: sensor_total_energy
-      name: '${friendly_name} - Total Energy'
+      name: '${friendly_name} - Michael was here!'
       unit_of_measurement: kWh
       icon: mdi:circle-slice-3
       state_class: total_increasing
